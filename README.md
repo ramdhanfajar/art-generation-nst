@@ -33,7 +33,7 @@ Berikut adalah modifikasi yang telah dilakukan dalam notebook `neural_style_tran
 ## 🖼️ Contoh Hasil
 
 ### Hasil Setelah Dimodifikasi
-[Hasil Modifikasi](hasil_modifikasi.png)
+![Hasil Modifikasi](hasil_modifikasi.png)
 
 
 ## 📚 Referensi
