@@ -41,7 +41,6 @@ Berikut adalah modifikasi yang telah dilakukan dalam notebook `neural_style_tran
 
 ##  Referensi
 
-- [Neural Style Transfer Paper (Gatys et al.)](https://arxiv.org/abs/1508.06576)
 - [TensorFlow NST Tutorial](https://www.tensorflow.org/tutorials/generative/style_transfer)
 - GitHub repo original: [Shruti-Raj-Vansh-Singh](https://github.com/Shruti-Raj-Vansh-Singh/Art-Generation-using-neural-style-tranfer)
 
