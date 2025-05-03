@@ -32,7 +32,9 @@ Berikut adalah modifikasi yang telah dilakukan dalam notebook `neural_style_tran
 
 ## 🖼️ Contoh Hasil
 
-> Gambar hasil bisa dilampirkan di sini setelah eksekusi.
+### Hasil Setelah Dimodifikasi
+![Hasil Modifikasi](hasil_setelah di modif.png)
+
 
 ## 📚 Referensi
 
