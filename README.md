@@ -5,8 +5,7 @@ Proyek ini menerapkan algoritma *Neural Style Transfer* (NST) untuk menciptakan 
 ## 📁 Struktur Proyek
 
 - `Art_Generation.ipynb`: Notebook utama dari repo asli.
-- `Untitled7.ipynb`: Versi modifikasi awal.
-- `Untitled7 (1).ipynb`: Versi modifikasi lanjutan dengan peningkatan kualitas output.
+- `neural_style_transfer.py`: Versi modifikasi  dengan peningkatan kualitas output.
 
 ## 🚀 Fitur Asli
 
@@ -17,7 +16,7 @@ Proyek ini menerapkan algoritma *Neural Style Transfer* (NST) untuk menciptakan 
 
 ## 🔧 Perubahan & Modifikasi
 
-Berikut adalah modifikasi yang telah dilakukan dalam notebook `Untitled7 (1).ipynb`:
+Berikut adalah modifikasi yang telah dilakukan dalam notebook `neural_style_transfer.py`:
 
 - ⚖️ **Penyetelan ulang rasio konten dan gaya** agar hasil lebih seimbang.
 - 🧹 **Penambahan normalisasi dan pemrosesan awal** agar hasil lebih bersih.
@@ -26,7 +25,7 @@ Berikut adalah modifikasi yang telah dilakukan dalam notebook `Untitled7 (1).ipy
 
 ## 📌 Cara Menjalankan
 
-1. Buka `.ipynb` file di Google Colab atau Jupyter Notebook.
+1. Buka `neural_style_transfer.py` file di Google Colab atau Jupyter Notebook.
 2. Upload dua gambar: satu untuk konten, satu untuk gaya.
 3. Jalankan semua sel dari atas ke bawah.
 4. Lihat hasil akhir di bagian output.
